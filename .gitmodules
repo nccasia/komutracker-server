@@ -1,0 +1,12 @@
+[submodule "aw-webui"]
+	path = aw-webui
+	url = https://github.com/nccasia/aw-webui
+[submodule "aw-core"]
+	path = aw-core
+	url = https://github.com/nccasia/aw-core
+[submodule "aw-server"]
+	path = aw-server
+	url = https://github.com/nccasia/aw-server
+[submodule "aw-server-rust"]
+	path = aw-server-rust
+	url = https://github.com/nccasia/aw-server-rust
