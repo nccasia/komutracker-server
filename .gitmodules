@@ -7,6 +7,3 @@
 [submodule "aw-server"]
 	path = aw-server
 	url = https://github.com/nccasia/aw-server
-[submodule "aw-server-rust"]
-	path = aw-server-rust
-	url = https://github.com/nccasia/aw-server-rust
